@@ -12,7 +12,7 @@ Derzeit existieren funktionierende Prototypen des Systems.
 
 Der [b]blueReader[/b] ermöglicht es NFC-Tags über eine Bluetooth-Verbindung mit einem PC oder Smartphone ohne NFC-Technologie auslesen zu können.
 
-Die Idee für dieses Projekt entstand durch ein neues Produkt der Firma Abbott, namens Freestyle Libre, welches den Blutzucker im Gewebe messen kann. Dieses System benutzt zur Darstellung der Messwerte ein Lesegerät, oder ein NFC-fähiges Smartphone, welches über die NFC-Technologie die Werte aus dem Sensor ausliest. Diese Funktionen wollte ich auch meinen nicht NFC-fähigen Geräten haben, insbesondere iOS-Geräten. 
+Die Idee für dieses Projekt entstand durch ein neues Produkt der Firma Abbott, namens Freestyle Libre, welches den Glukosegehalt im Gewebe messen kann. Dieses System benutzt zur Darstellung der Messwerte ein Lesegerät, oder ein NFC-fähiges Smartphone, welches über die NFC-Technologie die Werte aus dem Sensor ausliest. Diese Funktionen wollte ich auch meinen nicht NFC-fähigen Geräten haben, insbesondere iOS-Geräten. 
 
 Die Lösung besteht aus einem System, dem [b]blueReader[/b], der die Daten per NFC-Technologie auslesen und über Bluetooth an ein Gerät weiter leiten kann.
 
