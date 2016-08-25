@@ -26,8 +26,7 @@ Der größte Teil des Geldes wird für die Tests und Zertifizierungen nach CE, e
 ———— Was sind die Ziele und wer die Zielgruppe:
 Das Ziel ist es den [b]blueReader[/b] bis zu seiner Serienreife entwickeln zu können, die für elektrische Geräte notwendigen Zertifizierungen zu erreichen und anschliessend den blueReader vertreiben zu können.
 
-Interessant ist das Projekt für alle Personen die ein NFC-basiertes Messsystem, wie das Freestyle Libre, nutzen und mehr Freiheit und Überwachung für Ihren Blutzucker wollen und für alle Personen die NFC-Technologien einsetzen wollen und bestehende Systeme um eine kostengünstige Möglichkeit dies zu tun nachrüsten wollen.
-// TODO "Freiheit und überwachung" interessante Kombination? Blutzucker ist evtl. auch missverständlich; eher was in Richtig "besseren Einblick in die Werte / höhere Transparenz?"
+Interessant ist das Projekt für alle Personen die ein NFC-basiertes Messsystem, wie das Freestyle Libre, nutzen und kontinuierliche Einblicke in den Verlauf Ihrer Werte wollen und für alle Personen die NFC-Technologien einsetzen wollen und bestehende Systeme um eine kostengünstige Möglichkeit dies zu tun nachrüsten wollen.
 
 ———— Warum sollte jemand dieses Projekt unterstützen:
 Weil dieses Projekt:
@@ -41,12 +40,11 @@ Das Geld soll für die Entwicklung des [b]blueReaders[/b] zur Serienreife und ei
 
 Derzeit existieren verschiedene Prototypen, auch schon auf eigens dafür entwickelten Platinen. Diese Prototypen dienen derzeit noch dem Finetuning der NFC-Antennen und der Erprobung des Systems. Für die Serienproduktion sind noch einige Tests, sowie die Zertifizierung für einen sicheren Betrieb (Elektromagnetische Störung, Schutz vor Umgebungsstörungen, ..) notwendig.
 
-Nach erfolgreicher Durchführung dieser Kampagne wird zunächst eine kleine Menge von [b]blueReadern[/b] produziert werden um das Design zu vollenden.
+Nach erfolgreicher Durchführung dieser Kampagne wird zunächst eine kleine Menge von [b]blueReadern[/b] als Vorserie produziert werden um das Design zu vollenden.
 Danach wird die Verpackung entworfen und der [b]blueReader[/b] den notwendigen Zertifizierungen unterzogen.
 Nach erfolgreicher Zertifizierung wird eine erste Kleinserie von [b]blueReadern[/b] produziert, die an alle Unterstützer die ein Testseriengerät erworben haben verschickt wird.
 
-Wenn es mit diesen [b]blueReadern[/b] keine Probleme gibt, startet danach die Bestellung für Seriengeräte. Sobald mindestens 100 Geräte bestellt wurden wir die Serienproduktion dann gestartet.
-// TODO unklar: "Bestellung". Sind damit die 100€-Unterstützer gemeint? Die haben dann ja schon bezahlt. Bestellung ist im Kontext von Crowdfunding auch nicht so gut - man kauft ja kein Produktion, sondern unterstützt es mit seinen Risiken
+Wenn es mit den [b]blueReadern[/b] aus der Testserie keine Probleme mehr gibt, startet danach die Bestellung für Seriengeräte. Sobald mindestens 100 Geräte bestellt wurden wird die Serienproduktion dann gestartet. Alle Unterstützer die [i]20% Nachlass[/i] als Dankeschön gewählt haben, können ab dann den [b]blueReader[/b] zu dem reduzierten Preis bestellen.
 
 Falls diese Kampagne nicht erfolgreich sein sollte, werde ich dennoch weiterhin versuchen den [b]blueReader[/b] irgendwie so weit finanziert zu bekommen, um dieses Produkt möglichst vielen Menschen anbieten zu können.
 
