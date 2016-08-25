@@ -1,5 +1,5 @@
 ———— Projekttitel:
-blueReader nfc 2 Bluetooth Adapter
+blueReader NFC 2 Bluetooth Adapter
 
 ———— Untertitel:
 blueReader – ein Werkzeug um NFC-Tags besser benutzen zu können. Bluetooth, Standalone, openSource!
@@ -11,7 +11,7 @@ bluereader
 Technologie
 
 ———— Stadt:
-Kassel, Hesse, Germany
+Kassel, Hessen, Germany
 
 ———— Schlagwörter:
 blueReader, Bluetooth, NFC
