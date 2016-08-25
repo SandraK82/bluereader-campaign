@@ -1,6 +1,6 @@
 ———— Short Description:
-blueReader – the easy way to read NFC tags wirelessly via bluetooth
-Supports all formats, even medical systems like Abbott's Freestyle-Libre.
+blueReader – the easy way to read NFC tags wirelessly via bluetooth.
+Supports all formats, including medical systems like Abbott's Freestyle Libre.
 [ images just show prototypes (fully functional) ]
 
 
@@ -23,12 +23,12 @@ The finished  device will just be slightly bigger than the Libre sensor and full
 
 This fund-raiser provides the basis to finish the product and provide it to the general public. Not only will the device be able to be bought ready-made, but furthermore the full source code, wiring diagrams and information about this device will be provided.
 
-The main part of the budget will be used for tests and certification of conformity (CE) and electromagnetic compatibility. disposal fees of rechargeable batteries, official bluetooth registration and test production. The [b]blueReader[/b] itself is already developed by me and an electrical engineer to preproduction maturity.
+The main part of the budget will be used for tests and certification of conformity (CE) and electromagnetic compatibility. Disposal fees of rechargeable batteries, official bluetooth registration and test production. The [b]blueReader[/b] itself is already developed by me and an electrical engineer to preproduction maturity.
 
 ———— What is the project Goal and who is the project for:
 The goal is to mature the [b]blueReader[/b] to series production and obtain the needed certifications for an electrical device in order to distribute and sell the blueReader.
 
-The project will be interesting for people that use such a glucose monitor and want  more freedom and control over their  blood glucose levels, and also for any other that want to use NFC technology with their existing devices and upgrade them with this capability cost-efficiently.
+The project will be interesting for people that use such a glucose monitor and want more freedom and control over their blood glucose levels, and also for any other that want to use NFC technology with their existing devices and upgrade them with this capability cost-efficiently.
 
 ———— Why would you support this project:
 

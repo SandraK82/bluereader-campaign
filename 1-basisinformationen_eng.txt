@@ -1,5 +1,5 @@
 ———— Project title:
-blueReader nfc 2 Bluetooth Adapter
+blueReader NFC 2 Bluetooth Adapter
 
 ———— Subtitle:
 
@@ -10,7 +10,7 @@ bluereader
 Technology
 
 ———— Stadt:
-Kassel, Hesse, Germany
+Kassel, Hessen, Germany
 
 ———— Schlagwörter:
 blueReader, Bluetooth, NFC
