@@ -2,7 +2,7 @@
 blueReader NFC 2 Bluetooth Adapter
 
 ———— Untertitel:
-blueReader – ein Werkzeug um NFC-Tags besser benutzen zu können. Bluetooth, Standalone, openSource!
+blueReader – NFC-Tags einfach drahtlos per bluetooth auslesen.
 
 ———— Projektlink:
 bluereader
