@@ -1,0 +1,44 @@
+———— Vorname:
+Sandra
+
+———— Nachname:
+Keßler
+
+———— Geburtstag
+06.07.1982
+
+———— Telefonnummer:
+
+———— Über dich:
+Ich versuche durch die Benutzung von Technologien meinen Alltag einfacher und angenehmer zu gestalten. Als Diabetikerin bin ich stark von Technologien abhängig und beobachte die neusten Trends.
+Dadurch wurde ich auf ein neues System zur Glukosemessung aufmerksam, welches aber ein NFC-basiertes System für die Übertragung der Messwerte zu dem Anzeigegerät benutzt. 
+Mit ein paar anderen Technikbegeisterten machte ich mich auf die Suche dieses System für unsere Begriffe zu vervollständigen. Herausgekommen sind viele kleine Projekte, die zu diesem blueReader-Projekt geführt haben.
+
+———— Bild:
+
+———— Firma / Organisation:
+blueToolz ug (haftungsbeschränkt)
+
+———— Vorname:
+Sandra Theresa
+
+———— Nachname:
+Keßler
+
+———— Straße, Hausnummer:
+Wilhelmshöher Alle 260
+
+———— PLZ:
+34131
+
+———— Stadt:
+Kassel
+
+———— Land:
+Deutschland
+
+———— E-Mail:
+sk@softwarehaus-kassel.de
+
+———— Details:
+Eingetragen am Amtsgericht Kassel unter HRB 17059

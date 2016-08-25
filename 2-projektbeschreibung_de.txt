@@ -1,0 +1,52 @@
+———— Kurzbeschreibung:
+blueReader – NFC-Tags einfach drahtlos per bluetooth auslesen.
+Unterstützt alle Formate, sogar medizinische Systeme wie den den Freestyle Libre der Firma Abbott.
+[ Die Bilder zeigen nur Prototypen! ]
+
+———— Realisierungszeitraum:
+Oktober bis Dezember 2016
+
+———— Worum geht es in dem Projekt:
+Es geht um die Entwicklung eines Gerätes mit dem Namen [b]blueReader[/b] bis zur Serienreife.
+Derzeit existieren funktionierende Prototypen des Systems.
+
+Der [b]blueReader[/b] ermöglicht es NFC-Tags über eine Bluetooth-Verbindung mit einem PC oder Smartphone ohne NFC-Technologie auslesen zu können.
+
+Die Idee für dieses Projekt entstand durch ein neues Produkt der Firma Abbott, namens Freestyle Libre, welches den Blutzucker im Gewebe messen kann. Dieses System benutzt zur Darstellung der Messwerte ein Lesegerät, oder ein NFC-fähiges Smartphone, welches über die NFC-Technologie die Werte aus dem Sensor ausliest. Diese Funktionen wollte ich auch meinen nicht NFC-fähigen Geräten haben, insbesondere iOS-Geräten. 
+
+Die Lösung besteht aus einem System, dem [b]blueReader[/b], der die Daten per NFC-Technologie auslesen und über Bluetooth an ein Gerät weiter leiten kann.
+
+Der [b]blueReader[/b] existiert bisher als funktionierender Prototyp.
+Die abgebildeten Platinen und Skizzen sind aus der Entwicklung des Gerätes. Das fertige Gerät soll nur unwesentlich größer als ein Libre-Sensor und komplett Wasserdicht sein.
+
+Dieser Fundraise dient dazu dieses Produkt fertig zu stellen und der Allgemeinheit zur Verfügung stellen zu können. Zum einen kann dieses Gerät fertig gekauft werden, aber es werden auch sämtliche SourceCodes, Schaltpläne und Informationen zu diesem Gerät zur Verfügung gestellt werden.
+
+Der größte Teil des Geldes wird für die Tests und Zertifizierungen nach CE, elektromagnetischer Störsicherheit, Entsorgung von aufladbaren Batterien, Bluetooth Registrierung und Testproduktion verwendet werden, da der [b]blueReader[/b] an sich bereits von mir Entwickelt wurde und durch einen Elektro-Ingenieur bis zur Vorserienreife entwickelt wurde.
+
+———— Was sind die Ziele und wer die Zielgruppe:
+Das Ziel ist es den [b]blueReader[/b] bis zu einer Serienreife zu Ende entwickeln können, die für elektrisches Gerät notwendigen Zertifizierungen zu erreichen und danach den blueReader vertreiben zu können.
+
+Interessant ist das Projekt für alle Personen die ein NFC-basiertes Messsystem, wie das Freestyle Libre, benutzen und mehr Freiheit und Überwachung für Ihren Blutzucker wollen und für alle Personen die NFC-Technologien Einsetzen wollen und bestehende Systeme um eine kostengünstige Möglichkeit dies zu tun nachrüsten wollen.
+
+———— Warum sollte jemand dieses Projekt unterstützen:
+Weil dieses Projekt:
+[list][*] Eine günstige Möglichkeit anbieten will, den Blutzucker über ein günstiges System permanent Überwachen zu können!
+[*] Alles aus diesem Projekt OpenSource wird!
+[*] Wenn diese Kampagne erfolgreich ist ich mich verpflichte eventuelle Gewinne aus diesem Projekt oder Verkauf von [b]blueReadern[/b] zur weiteren Forschung an alternativen Systemen für die Behandlung von Diabetes einzusetzen!
+[/list]
+
+———— Was passiert mit dem Geld bei erfolgreicher Finanzierung:
+Das Geld soll für die Entwicklung des [b]blueReaders[/b] zur Serienreife und eine erste Testserienfertigung verwendet werden.
+
+Derzeit existieren verschiedene Prototypen, auch schon auf eigens dafür entwickelten Platinen. Diese Prototypen dienen derzeit noch des Finetunings der NFC-Antennen und der Erprobung des Systems. Für die Serienproduktion sind noch einige Tests, sowie die Zertifizierung für einen sicheren Betrieb (Elektromagnetische Störung, Schutz vor Umgebungsstörungen, ..) notwendig.
+
+Nach erfolgreicher Durchführung dieser Kampagne wird zunächst eine kleine Menge von [b]blueReadern[/b] produziert werden um das Design zu vollenden.
+Danach wird die Verpackung entworfen und der [b]blueReader[/b] den notwendigen Zertifizierungen unterzogen.
+Nach erfolgreicher Zertifizierung wird eine erste Kleinserie von [b]blueReadern[/b] produziert und an alle Unterstützer die ein Testseriengerät erworben haben verschickt.
+
+Wenn es mit diesen [b]blueReadern[/b] keine Probleme gibt, startet danach die Bestellung für Seriengeräte. Sobald mindestens 100 Geräte bestellt wurden wir die Serienproduktion dann gestartet.
+
+Falls diese Kampagne nicht erfolgreich sein sollte, werde ich dennoch weiterhin versuchen den [b]blueReader[/b] irgendwie so weit finanzieren zu bekommen, um dieses Produkt möglichst vielen Menschen anbieten zu können.
+
+———— Wer steht hinter dem Projekt:
+Sandra Keßler und eine wachsende Anzahl an openSource Entwicklern und Technik begeisterten Menschen
