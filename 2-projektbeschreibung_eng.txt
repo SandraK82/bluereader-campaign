@@ -1,7 +1,10 @@
 ———— Short Description:
-blueReader – the easy way to read NFC tags wirelessly via bluetooth.
+blueReader – the easy way to read NFC tags wirelessly via Bluetooth.
 Supports all formats, including medical systems like Abbott's Freestyle Libre.
 [ images just show prototypes (fully functional) ]
+
+Please note - this project has no association with and is not endorsed by Abbott.
+All product and company names, trademarks, servicemarks, registered trademarks, and registered servicemarks are the property of their respective holders. Their use is for information purposes and does not imply any affiliation with or endorsement by them.
 
 ———— Realisation period:
 October to December 2016
@@ -9,36 +12,36 @@ October to December 2016
 ———— What is this project all about:
 This project aims to develop a device called [b]blueReader[/b] to readiness for series-production.
 
-The [b]blueReader[/b] will provide the posibility to read NFC tags via a Bluetooth connection from a PC or smartphone that don't have built in NFC technology.
+The [b]blueReader[/b] will provide the possibility to read NFC tags via a Bluetooth connection from a PC or smartphone that don't have built in NFC technology.
 
-The idea for this project arose when Abbott's latest product, the Freestyle-Libre, came to market. A system that can measure the interstitial glucose level. This system can display the measured levels either on a dedicated hand-held device or an Android smartphone with NFC capabilities.
+The idea for this project arose when Abbott's latest product, the Freestyle Libre, came to market. A system that can measure the interstitial glucose level. This system can display the measured levels either on a dedicated hand-held device or an Android smartphone with NFC capabilities.
 I wanted to have these features on my devices that don't have built in NFC capabilities, especially iOS devices
 
 The solution consists of a system, the [b]blueReader[/b], that can read the data via NFC technology and forwards it via Bluetooth to another device.
 
-The [b]blueReader[/b] currently exists as a set of fully functional prototypes. 
-The depicted circuit boards and drawings are taken form the the development steps of the device. 
-The finished  device will just be slightly bigger than the Libre sensor and fully waterproof.
+The [b]blueReader[/b] currently exists as a set of fully functional prototypes.
+The depicted circuit boards and drawings were taken throughout the stages of development of the device.
+The finished device will only be slightly bigger than the Libre sensor and will be fully waterproof.
 
 This fund-raiser provides the basis to finish the product and provide it to the general public. Not only will the device be able to be bought ready-made, but furthermore the full source code, wiring diagrams and information about this device will be provided.
 
-The main part of the budget will be used for tests and certification of conformity (CE) and electromagnetic compatibility. Disposal fees of rechargeable batteries, official Bluetooth registration and test production. The [b]blueReader[/b] itself is already developed by me and an electrical engineer to preproduction maturity.
+The main part of the budget will be used for tests and certification of conformity (CE) and electromagnetic compatibility. Disposal fees for rechargeable batteries, official Bluetooth registration and test production. The [b]blueReader[/b] itself has already been developed to preproduction maturity by myself and an electrical engineer.
 
-———— What is the project Goal and who is the project for:
+———— What is the project's goal and who is the project for:
 The goal is to mature the [b]blueReader[/b] to series production and obtain the needed certifications for an electrical device in order to distribute and sell the blueReader.
 
-The project will be interesting for people that use a glucose monitor like the Freestyle-Libre and want more freedom and control over their glucose levels, and also for any other user who wants to use NFC technology with their existing Bluetooth enabled devices and upgrade them cost-efficiently with NFC capabilities.
+The project will be of interest to people that use a glucose monitor like the Freestyle Libre and want more insight into their glucose levels, and also for any other user who wants to use NFC technology with their existing Bluetooth-enabled devices and upgrade them cost-efficiently with NFC capabilities.
 
 ———— Why would you support this project:
 Because this projects aims to provide:
-[list][*] A cost efficient Method to gain even more insights and alarms for your Glucose levels!
-[*] Every bit of informations about the system freely available under an OpenSource license!
+[list][*] A cost efficient method to gain even more insights and alarms for your glucose levels!
+[*] Every bit of information about the system freely available under an OpenSource license!
 [*] My commitment to use the earnings from the distribution of the [b]blueReader[/b] for further research of open source systems for diabetics!
 [/list]
 ———— How will the money be used if the project is successfully:
 The money will be used to mature the [b]blueReader[/b] to be ready for series production and a first batch of experimental devices.
 
-The current prototypes are built for antenna Tuning and component evaluation. To get the [b]BlueReader[/b] ready for production, tests and certifications with regulators have to be conducted.
+The current prototypes are built for antenna tuning and component evaluation. To get the [b]BlueReader[/b] ready for production, tests and certifications with regulators have to be conducted.
 
 If this campaign succeeds, a batch of experimental devices will be produced, the boxing designed and the necessary certificates and test be conducted. After all of this has been done, the experimental devices will be slippet to the supported that have choosen this reward.
 

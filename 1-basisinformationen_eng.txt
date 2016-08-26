@@ -7,11 +7,11 @@ blueReader – easily read NFC-Tags via Bluetooth.
 ———— Projektlink:
 bluereader
 
-———— Kategorie:
+———— Category:
 Technology
 
-———— Stadt:
+———— City:
 Kassel, Hessen, Germany
 
-———— Schlagwörter:
+———— Keywords:
 blueReader, Bluetooth, NFC

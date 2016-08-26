@@ -3,6 +3,8 @@ blueReader – NFC-Tags einfach drahtlos per Bluetooth auslesen.
 Unterstützt alle Formate, sogar medizinische Systeme wie den den Freestyle Libre der Firma Abbott.
 [ Die Bilder zeigen nur Prototypen! ]
 
+// TODO disclaimer
+
 ———— Realisierungszeitraum:
 Oktober bis Dezember 2016
 
@@ -10,7 +12,7 @@ Oktober bis Dezember 2016
 Es geht um die Entwicklung eines Gerätes mit dem Namen [b]blueReader[/b] bis zur Serienreife.
 Derzeit existieren funktionierende Prototypen des Systems.
 
-Der [b]blueReader[/b] ermöglicht es NFC-Tags über eine Bluetooth-Verbindung mit einem PC oder Smartphone ohne NFC-Technologie auslesen zu können.
+Der [b]blueReader[/b] ermöglicht es NFC-Tags über eine Bluetooth-Verbindung mit einem PC oder Smartphone ohne NFC-Technologie auszulesen.
 
 Die Idee für dieses Projekt entstand durch ein neues Produkt der Firma Abbott, namens Freestyle Libre, welches den Glukosegehalt im Gewebe messen kann. Dieses System benutzt zur Darstellung der Messwerte ein Lesegerät, oder ein NFC-fähiges Smartphone, welches über die NFC-Technologie die Werte aus dem Sensor ausliest. Diese Funktionen wollte ich auch meinen nicht NFC-fähigen Geräten haben, insbesondere iOS-Geräten.
 
