@@ -2,6 +2,7 @@
 blueReader NFC 2 Bluetooth Adapter
 
 ———— Subtitle:
+blueReader – easily read NFC-Tags via Bluetooth.
 
 ———— Projektlink:
 bluereader

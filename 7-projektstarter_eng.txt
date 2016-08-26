@@ -10,9 +10,10 @@ Keßler
 ———— Telefonnummer:
 
 ———— Über dich:
-Ich versuche durch die Benutzung von Technologien meinen Alltag einfacher und angenehmer zu gestalten. Als Diabetikerin bin ich stark von Technologien abhängig und beobachte die neusten Trends.
-Dadurch wurde ich auf ein neues System zur Glukosemessung aufmerksam, welches aber ein NFC-basiertes System für die Übertragung der Messwerte zu dem Anzeigegerät benutzt. 
-Mit ein paar anderen Technikbegeisterten machte ich mich auf die Suche dieses System für unsere Begriffe zu vervollständigen. Herausgekommen sind viele kleine Projekte, die zu diesem blueReader-Projekt geführt haben.
+I try to use technology to make all the stuff in my life easier.
+As a diabetic I`m very dependent on technology and try to to stay on top of all new developments and technologies to make my life better and easier.
+Because of that, I learned about the Freestyle-Libre system for checking my Glucose levels and started a journey to Reverse engineer the necessary parts of the system to built a realtime Glucose monitoring system with it.
+With the help of a steady growing community, I was able to built the first prototypes, resulting in this campaign to get this technology to as many people as possible.
 
 ———— Bild:
 
