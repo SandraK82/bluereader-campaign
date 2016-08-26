@@ -1,15 +1,15 @@
-———— Vorname:
+———— Surname:
 Sandra
 
-———— Nachname:
+———— Name:
 Keßler
 
-———— Geburtstag
+———— Date of birth
 06.07.1982
 
 ———— Telefonnummer:
 
-———— Über dich:
+———— About me:
 I try to use technology to make all the stuff in my life easier.
 As a diabetic I`m very dependent on technology and try to to stay on top of all new developments and technologies to make my life better and easier.
 Because of that, I learned about the Freestyle-Libre system for checking my Glucose levels and started a journey to Reverse engineer the necessary parts of the system to built a realtime Glucose monitoring system with it.
@@ -17,29 +17,29 @@ With the help of a steady growing community, I was able to built the first proto
 
 ———— Bild:
 
-———— Firma / Organisation:
+———— Company / Organisation:
 blueToolz ug (haftungsbeschränkt)
 
-———— Vorname:
+———— Surname:
 Sandra Theresa
 
-———— Nachname:
+———— Name:
 Keßler
 
-———— Straße, Hausnummer:
+———— Street
 Wilhelmshöher Alle 260
 
-———— PLZ:
+———— Postal code:
 34131
 
-———— Stadt:
+———— City:
 Kassel
 
-———— Land:
-Deutschland
+———— Country:
+Germany
 
 ———— E-Mail:
 sk@softwarehaus-kassel.de
 
-———— Details:
-Eingetragen am Amtsgericht Kassel unter HRB 17059
+———— Legal:
+blueToolz ug is registered at the district court Kassel HRB 17059

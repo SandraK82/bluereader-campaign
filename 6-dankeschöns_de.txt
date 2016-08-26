@@ -5,7 +5,7 @@ Nennung in der Unterstützerliste
 
 - 
 
-Ihr bekommt euren Namen und eure Message auf der Homepage des Produkts
+Ihr bekommt Euren Namen und Eure Nachricht auf der Homepage des Produkts.
 
 Oktober 2016
 
@@ -20,7 +20,7 @@ Sobald die ersten Erfahrungen mit der Testserie vorliegen, wird eine erste Charg
 
 [b]Sichert euch 20% Rabatt auf die ersten kaufbaren blueReader![/b]
 
-[i]Zusätzlich bekommt ihr euren Namen und eure Nachricht auf die Produktseite des blueReaders.[/i]
+[i]Zusätzlich bekommt Ihr Euren Namen und Eure Nachricht auf die Produktseite des blueReaders.[/i]
 
 November / Dezember 2016
 
@@ -31,14 +31,14 @@ Name, Nachricht für die Dankesseite
 
 Testserien blueReader
 
-limit 90
+Begrenzt auf 90 blueReader
 
-[b]Bekommt einen der ersten Produzierten blueReader überhaupt! [/b]
+[b]Bekommt einen der ersten produzierten blueReader überhaupt! [/b]
 
 Sobald alle Tests erfolgreich abgeschlossen wurden, wird eine erste Charge an blueReadern produziert werden, limitiert auf 90  Geräte, die Ihr als erste in der Hand halten könnt!
 Diese Geräte werden alle Funktionen, aber einen erweiterten Support haben, da wir Serienfehler noch nicht gänzlich ausschliessen können.
 
-[i]Zusätzlich bekommt ihr eine Widmung mit euren Namen und Nachricht auf der Produktseite![/i]
+[i]Zusätzlich bekommt Ihr eine Widmung mit Eurem Namen und Eurer Nachricht auf der Produktseite![/i]
 
 November / Dezember 2016
 
