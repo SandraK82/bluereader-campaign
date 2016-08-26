@@ -40,7 +40,7 @@ Das Geld soll für die Entwicklung des [b]blueReaders[/b] zur Serienreife und ei
 
 Derzeit existieren verschiedene Prototypen, auch schon auf eigens dafür entwickelten Platinen. Diese Prototypen dienen derzeit noch dem Finetuning der NFC-Antennen und der Erprobung des Systems. Für die Serienproduktion sind noch einige Tests, sowie die Zertifizierung für einen sicheren Betrieb (Elektromagnetische Störung, Schutz vor Umgebungsstörungen, ..) notwendig.
 
-Nach erfolgreicher Durchführung dieser Kampagne wird zunächst eine kleine Menge von [b]blueReadern[/b] als Vorserie produziert werden um das Design zu vollenden.
+Nach erfolgreicher Durchführung dieser Kampagne wird zunächst eine kleine Menge von [b]blueReadern[/b] als Testserie produziert werden um das Design zu vollenden.
 Danach wird die Verpackung entworfen und der [b]blueReader[/b] den notwendigen Zertifizierungen unterzogen.
 Nach erfolgreicher Zertifizierung wird eine erste Kleinserie von [b]blueReadern[/b] produziert, die an alle Unterstützer die ein Testseriengerät erworben haben verschickt wird.
 
