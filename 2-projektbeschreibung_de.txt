@@ -1,6 +1,6 @@
 ———— Kurzbeschreibung:
 blueReader – NFC-Tags einfach drahtlos per Bluetooth auslesen.
-Unterstützt alle Formate, sogar medizinische Systeme wie den den Freestyle Libre der Firma Abbott.
+Unterstützt alle Formate, sogar medizinische Systeme wie den den FreeStyle Libre der Firma Abbott.
 [ Die Bilder zeigen nur Prototypen! ]
 
 Wichtig: Dieses Projekt steht in keiner Beziehung und wird nicht unterstützt von Abbott. Alle durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweiligen eingetragenen Eigentümer. Allein aufgrund der bloßen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter geschützt sind! 
@@ -14,7 +14,7 @@ Derzeit existieren funktionierende Prototypen des Systems.
 
 Der [b]blueReader[/b] ermöglicht es NFC-Tags über eine Bluetooth-Verbindung mit einem PC oder Smartphone ohne NFC-Technologie auszulesen.
 
-Die Idee für dieses Projekt entstand durch ein neues Produkt der Firma Abbott, namens Freestyle Libre, welches den Glukosegehalt im Gewebe messen kann. Dieses System benutzt zur Darstellung der Messwerte ein Lesegerät, oder ein NFC-fähiges Smartphone, welches über die NFC-Technologie die Werte aus dem Sensor ausliest. Diese Funktionen wollte ich auch meinen nicht NFC-fähigen Geräten haben, insbesondere iOS-Geräten.
+Die Idee für dieses Projekt entstand durch ein neues Produkt der Firma Abbott, namens FreeStyle Libre, welches den Glukosegehalt im Gewebe messen kann. Dieses System benutzt zur Darstellung der Messwerte ein Lesegerät, oder ein NFC-fähiges Smartphone, welches über die NFC-Technologie die Werte aus dem Sensor ausliest. Diese Funktionen wollte ich auch meinen nicht NFC-fähigen Geräten haben, insbesondere iOS-Geräten.
 
 Die Lösung besteht aus einem System, dem [b]blueReader[/b], der die Daten per NFC-Technologie regelmäßig auslesen und über Bluetooth an ein Gerät weiter leiten kann.
 
@@ -28,7 +28,7 @@ Der größte Teil des Geldes wird für die Tests und Zertifizierungen nach CE, e
 ———— Was sind die Ziele und wer die Zielgruppe:
 Das Ziel ist es den [b]blueReader[/b] bis zu seiner Serienreife entwickeln zu können, die für elektrische Geräte notwendigen Zertifizierungen zu erreichen und anschliessend den blueReader vertreiben zu können.
 
-Interessant ist das Projekt für alle Personen die ein NFC-basiertes Messsystem, wie das Freestyle Libre, nutzen und kontinuierliche Einblicke in den Verlauf Ihrer Werte wollen und für alle Personen die NFC-Technologien einsetzen wollen und bestehende Systeme um eine kostengünstige Möglichkeit dies zu tun nachrüsten wollen.
+Interessant ist das Projekt für alle Personen die ein NFC-basiertes Messsystem, wie das FreeStyle Libre, nutzen und kontinuierliche Einblicke in den Verlauf Ihrer Werte wollen und für alle Personen die NFC-Technologien einsetzen wollen und bestehende Systeme um eine kostengünstige Möglichkeit dies zu tun nachrüsten wollen.
 
 ———— Warum sollte jemand dieses Projekt unterstützen:
 Weil dieses Projekt:
@@ -51,4 +51,4 @@ Wenn es mit den [b]blueReadern[/b] aus der Testserie keine Probleme mehr gibt, s
 Falls diese Kampagne nicht erfolgreich sein sollte, werde ich dennoch weiterhin versuchen den [b]blueReader[/b] irgendwie so weit finanziert zu bekommen, um dieses Produkt möglichst vielen Menschen anbieten zu können.
 
 ———— Wer steht hinter dem Projekt:
-Sandra Keßler und eine wachsende Anzahl an OpenSource Entwicklern-und Technik-begeisterten Menschen.
+Sandra Keßler und eine wachsende Anzahl an OpenSource-Entwicklern und Technik-begeisterten Menschen.
