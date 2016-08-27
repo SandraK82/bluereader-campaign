@@ -3,8 +3,6 @@ blueReader – the easy way to read NFC tags wirelessly via Bluetooth.
 Supports all formats, including medical systems like Abbott's Freestyle Libre.
 [ images just show prototypes (fully functional) ]
 
-Please note - this project has no association with and is not endorsed by Abbott.
-All product and company names, trademarks, servicemarks, registered trademarks, and registered servicemarks are the property of their respective holders. Their use is for information purposes and does not imply any affiliation with or endorsement by them.
 
 ———— Realisation period:
 October to December 2016
@@ -27,6 +25,9 @@ This fund-raiser provides the basis to finish the product and provide it to the 
 
 The main part of the budget will be used for tests and certification of conformity (CE) and electromagnetic compatibility. Disposal fees for rechargeable batteries, official Bluetooth registration and test production. The [b]blueReader[/b] itself has already been developed to preproduction maturity by myself and an electrical engineer.
 
+Please note - this project has no association with and is not endorsed by Abbott.
+All product and company names, trademarks, servicemarks, registered trademarks, and registered servicemarks are the property of their respective holders. Their use is for information purposes and does not imply any affiliation with or endorsement by them.
+
 ———— What is the project's goal and who is the project for:
 The goal is to mature the [b]blueReader[/b] to series production and obtain the needed certifications for an electrical device in order to distribute and sell the blueReader.
 
@@ -34,10 +35,10 @@ The project will be of interest to people that use a glucose monitor like the Fr
 
 ———— Why would you support this project:
 Because this projects aims to provide:
-[list][*] A cost efficient method to gain even more insights and alarms for your glucose levels!
+[*] A cost efficient method to gain even more insights and alarms for your glucose levels!
 [*] Every bit of information about the system freely available under an OpenSource license!
 [*] My commitment to use the earnings from the distribution of the [b]blueReader[/b] for further research of open source systems for diabetics!
-[/list]
+
 ———— How will the money be used if the project is successfully:
 The money will be used to mature the [b]blueReader[/b] to be ready for series production and a first batch of experimental devices.
 
@@ -51,3 +52,10 @@ If this campaign fails to succeed, I will try other ways to raise the needed mon
 
 ———— Who are the people behind the project:
 Sandra Keßler and a growing number of open source developers and technic enthusiats.
+Translations and corrections:
+[*] AdrianLxM
+[*] jotomo
+
+Algorithms and data analysis:
+[*] UPetersen
+[*] http://type1tennis.blogspot.de (Pierre Vandevenne)

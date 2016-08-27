@@ -3,8 +3,6 @@ blueReader – NFC-Tags einfach drahtlos per Bluetooth auslesen.
 Unterstützt alle Formate, sogar medizinische Systeme wie den den FreeStyle Libre der Firma Abbott.
 [ Die Bilder zeigen nur Prototypen! ]
 
-Wichtig: Dieses Projekt steht in keiner Beziehung und wird nicht unterstützt von Abbott. Alle durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweiligen eingetragenen Eigentümer. Allein aufgrund der bloßen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter geschützt sind! 
-
 ———— Realisierungszeitraum:
 Oktober bis Dezember 2016
 
@@ -25,6 +23,8 @@ Diese Kampagne dient dazu dieses Produkt fertig zu stellen und der Allgemeinheit
 
 Der größte Teil des Geldes wird für die Tests und Zertifizierungen nach CE, elektromagnetischer Störsicherheit, Entsorgung von aufladbaren Batterien, Bluetooth Registrierung und Testproduktion verwendet werden, da der [b]blueReader[/b] an sich bereits von mir entwickelt wurde und durch einen Elektro-Ingenieur bis zur Vorserienreife entwickelt wurde.
 
+Wichtig: Dieses Projekt steht in keiner Beziehung und wird nicht unterstützt von Abbott. Alle durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweiligen eingetragenen Eigentümer. Allein aufgrund der bloßen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter geschützt sind! 
+
 ———— Was sind die Ziele und wer die Zielgruppe:
 Das Ziel ist es den [b]blueReader[/b] bis zu seiner Serienreife entwickeln zu können, die für elektrische Geräte notwendigen Zertifizierungen zu erreichen und anschliessend den blueReader vertreiben zu können.
 
@@ -32,10 +32,9 @@ Interessant ist das Projekt für alle Personen die ein NFC-basiertes Messsystem,
 
 ———— Warum sollte jemand dieses Projekt unterstützen:
 Weil dieses Projekt:
-[list][*] Eine günstige Möglichkeit anbieten will, Glukosewerte über ein günstiges System permanent Überwachen zu können!
+[*] Eine günstige Möglichkeit anbieten will, Glukosewerte über ein günstiges System permanent Überwachen zu können!
 [*] Alles aus diesem Projekt OpenSource wird!
 [*] Wenn diese Kampagne erfolgreich ist ich mich verpflichte eventuelle Gewinne aus diesem Projekt oder Verkauf von [b]blueReadern[/b] zur weiteren Forschung an alternativen Systemen für die Behandlung von Diabetes einzusetzen!
-[/list]
 
 ———— Was passiert mit dem Geld bei erfolgreicher Finanzierung:
 Das Geld soll für die Entwicklung des [b]blueReaders[/b] zur Serienreife und eine erste Testserienfertigung verwendet werden.
@@ -52,3 +51,11 @@ Falls diese Kampagne nicht erfolgreich sein sollte, werde ich dennoch weiterhin 
 
 ———— Wer steht hinter dem Projekt:
 Sandra Keßler und eine wachsende Anzahl an OpenSource-Entwicklern und Technik-begeisterten Menschen.
+
+Übersetzungen und Korrekturen:
+[*] AdrianLxM
+[*] jotomo
+
+Algorithmen und Analysen:
+[*] UPetersen
+[*] http://type1tennis.blogspot.de (Pierre Vandevenne)
