@@ -10,12 +10,13 @@ Vorschaubild.jpg
 ———— Pitch-Video Vorschaubild:
 
 ———— 1. Galeriebild:
-IMG_1915.jpg
+gallerie1.jpg
 
 ———— 2. Galeriebild:
-IMG_1890.jpg
+gallerie2.jpg
 
 ———— 3. Galeriebild:
 gallerie3.png
 
 ———— 4. Galeriebild:
+gallerie4.jpg
