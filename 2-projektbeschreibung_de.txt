@@ -1,6 +1,6 @@
 ———— Kurzbeschreibung:
 blueReader – NFC-Tags einfach drahtlos per Bluetooth auslesen.
-Unterstützt alle Formate, sogar medizinische Systeme wie den den FreeStyle Libre der Firma Abbott.
+Unterstützt alle Formate, sogar medizinische Systeme wie den FreeStyle Libre der Firma Abbott.
 [ Die Bilder zeigen nur Prototypen! ]
 
 ———— Realisierungszeitraum:
@@ -28,7 +28,7 @@ Wichtig: Dieses Projekt steht in keiner Beziehung und wird nicht unterstützt vo
 ———— Was sind die Ziele und wer die Zielgruppe:
 Das Ziel ist es den [b]blueReader[/b] bis zu seiner Serienreife entwickeln zu können, die für elektrische Geräte notwendigen Zertifizierungen zu erreichen und anschliessend den blueReader vertreiben zu können.
 
-Interessant ist das Projekt für alle Personen die ein NFC-basiertes Messsystem, wie das FreeStyle Libre, nutzen und kontinuierliche Einblicke in den Verlauf Ihrer Werte wollen und für alle Personen die NFC-Technologien einsetzen wollen und bestehende Systeme um eine kostengünstige Möglichkeit dies zu tun nachrüsten wollen.
+Interessant ist das Projekt für alle Personen die ein NFC-basiertes Messsystem, wie das FreeStyle Libre, nutzen und kontinuierliche Einblicke in den Verlauf Ihrer Werte wollen. Sowie für alle Personen die NFC-Technologien in bestehende Systeme kostengünstig nachrüsten wollen.
 
 ———— Warum sollte jemand dieses Projekt unterstützen:
 Weil dieses Projekt:
